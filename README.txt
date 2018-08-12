@@ -1,4 +1,4 @@
-#rshell ###By Raqtan Hoq and Allen Nguyen
+#Tetris ###By Raqtan Hoq and Allen Nguyen
 
 Full code for two player tetris game on LED Matrices.
 
